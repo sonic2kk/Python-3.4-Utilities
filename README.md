@@ -1,4 +1,4 @@
-Python-3.4-Utilities
+Python 3.4 Utilities
 ====================
 <br />
 A list of Python 3.4 command line utilities, such as a file extension replacer and an audio converter. All files are heavily commented, so it shouldn't be too hard to read and understand.
